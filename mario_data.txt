@@ -1,0 +1,5 @@
+ID list:
+Ground - 1
+Water - 2
+Stone - 3
+Global Water - 4
